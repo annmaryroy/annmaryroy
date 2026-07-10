@@ -74,6 +74,16 @@ Implementation of a RISC-V single-cycle processor supporting the RV32I instructi
 - LinkedIn: *https://www.linkedin.com/in/annmaryroy*
 - Email: *annnmaryroy365@gmail.com*
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annmaryroy&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annmaryroy&layout=compact)
+
+
+![](https://komarev.com/ghpvc/?username=annmaryroy)
+
+
 <!---
 annmaryroy/annmaryroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
