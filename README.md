@@ -21,14 +21,12 @@ M.Tech student specializing in VLSI & Embedded Systems with interests in FPGA De
 
 ### Featured Projects
 
-#### FPGA-Based Emulation Using QubiC
-📌 Documentation and setup guide for the LBL QubiC framework, developed during my internship at NIT Calicut.
+📌 **FPGA-Based Emulation Using QubiC** : Documentation and setup guide for the LBL QubiC framework, developed during my internship at NIT Calicut.
 
 🔗 https://github.com/annmaryroy/QubiC-FPGA-Based-Quantum-Control
 
 
-#### RV32I Single Cycle Processor
-📌 Verilog implementation of a RV32I single-cycle processor.
+📌 **RV32I Single Cycle Processor** : Verilog implementation of a RV32I single-cycle processor.
 
 🔗 https://github.com/annmaryroy/RV32I-Single-Cycle-Processor
 
