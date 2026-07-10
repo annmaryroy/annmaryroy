@@ -76,9 +76,15 @@ Implementation of a RISC-V single-cycle processor supporting the RV32I instructi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annmaryroy&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annmaryroy&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annmaryroy&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annmaryroy&layout=compact&theme=github_dark)
+
+
+
+
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=annmaryroy)
