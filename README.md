@@ -32,7 +32,9 @@ FPGA Design • Quantum Computing • QubiC • NoC • RTL Design • RISC-V �
 
 ### Technical Skills
 **Programming:** Python, Verilog HDL, SystemVerilog
+
 **Tools:** Vivado, Vitis, Cadence Virtuoso, Git, Jupyter Notebook
+
 **Domains:** FPGA, RTL Design, NoC, Quantum Computing, Embedded Systems
 
 ---
