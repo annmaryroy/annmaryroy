@@ -9,35 +9,33 @@ I am passionate about semiconductor systems, FPGA design, Network-on-Chip (NoC),
 
 ---
 
-## Current Interests
+### Current Interests
 
 FPGA Design • Quantum Computing • QubiC • NoC • RTL Design • RISC-V • ASIC Design
 
 ---
 
-## Featured Projects
+### Featured Projects
 
-### FPGA-Based Emulation Using QubiC
+##### FPGA-Based Emulation Using QubiC
 📌 NIT Calicut internship documenting the QubiC software workflow on Windows.
 
 🔗 https://github.com/annmaryroy/QubiC-FPGA-Based-Quantum-Control
 
----
 
-### RV32I Single Cycle Processor
+##### RV32I Single Cycle Processor
 📌 Verilog implementation of a RV32I single-cycle processor.
 
 🔗 https://github.com/annmaryroy/RV32I-Single-Cycle-Processor
 
 ---
 
-## Technical Skills
+### Technical Skills
+**Programming:** Python, Verilog HDL, SystemVerilog
 
-| Category | Skills |
-|----------|---------|
-| Programming | Python, Verilog HDL, SystemVerilog |
-| Tools | Vivado, Vitis, Cadence Virtuoso, Git, Jupyter Notebook |
-| Domains | FPGA, RTL Design, NoC, Quantum Computing, Embedded Systems |
+**Tools:** Vivado, Vitis, Cadence Virtuoso, Git, Jupyter Notebook
+
+**Domains:** FPGA, RTL Design, NoC, Quantum Computing, Embedded Systems
 
 ---
 
@@ -45,18 +43,6 @@ FPGA Design • Quantum Computing • QubiC • NoC • RTL Design • RISC-V �
 
 - LinkedIn: *https://www.linkedin.com/in/annmaryroy*
 - Email: *annnmaryroy365@gmail.com*
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annmaryroy&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annmaryroy&layout=compact&theme=github_dark)
-
-
-
-
-
-
 
 
 ![](https://komarev.com/ghpvc/?username=annmaryroy)
