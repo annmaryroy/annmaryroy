@@ -7,14 +7,13 @@ FPGA • RTL • RISC-V • ASIC Design • NoC • Quantum Computing • Comput
 
 M.Tech student specializing in VLSI & Embedded Systems with interests in FPGA Design, Quantum Computing, Network-on-Chip (NoC), RTL Design, and Computer Architecture. I enjoy building and documenting hardware-software systems through academic projects and internships.
 
----
 
 #### Technical Skills
 **Programming:** Python, Verilog HDL, SystemVerilog
 
 **Tools:** Vivado, Vitis, Cadence Virtuoso, Git, Jupyter Notebook
 
-**Domains:** FPGA, RTL Design, NoC, Quantum Computing, Embedded Systems
+
 
 ---
 
