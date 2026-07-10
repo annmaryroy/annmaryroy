@@ -1,17 +1,16 @@
 # Hi, I'm Ann Mary Roy 👋
-M.Tech VLSI & Embedded Systems | FPGA • RTL • Quantum Computing • Computer Architecture
+FPGA • RTL • RISC-V • ASIC Design • NoC • Quantum Computing • Computer Architecture
 
-## About Me
 
 🎓 M.Tech in VLSI & Embedded Systems  
 🏫 Cochin University of Science and Technology (CUSAT)
 
 M.Tech student specializing in VLSI & Embedded Systems with interests in FPGA Design, Quantum Computing, Network-on-Chip (NoC), RTL Design, and Computer Architecture. I enjoy building and documenting hardware-software systems through academic projects and internships.
 
----
-Areas of Interest
-
-FPGA Design • Quantum Computing • QubiC • NoC • RTL Design • RISC-V • ASIC Design
+#### Technical Skills
+**Programming:** Python, Verilog HDL, SystemVerilog
+**Tools:** Vivado, Vitis, Cadence Virtuoso, Git, Jupyter Notebook
+**Domains:** FPGA, RTL Design, NoC, Quantum Computing, Embedded Systems
 
 ---
 
@@ -30,14 +29,6 @@ FPGA Design • Quantum Computing • QubiC • NoC • RTL Design • RISC-V �
 
 ---
 
-### Technical Skills
-**Programming:** Python, Verilog HDL, SystemVerilog
-
-**Tools:** Vivado, Vitis, Cadence Virtuoso, Git, Jupyter Notebook
-
-**Domains:** FPGA, RTL Design, NoC, Quantum Computing, Embedded Systems
-
----
 
 ## Connect with Me
 - LinkedIn: *https://www.linkedin.com/in/annmaryroy*
