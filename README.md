@@ -21,7 +21,6 @@ M.Tech student specializing in VLSI & Embedded Systems with interests in FPGA De
 
 ### Featured Projects
 
-## Featured Projects
 
 📌 [FPGA-Based Emulation Using QubiC](https://github.com/annmaryroy/QubiC-FPGA-Based-Quantum-Control)
 
