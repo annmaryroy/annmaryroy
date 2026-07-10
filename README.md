@@ -11,61 +11,33 @@ I am passionate about semiconductor systems, FPGA design, Network-on-Chip (NoC),
 
 ## Current Interests
 
-- FPGA Design
-- Quantum Computing
-- QubiC Framework
-- Network-on-Chip (NoC)
-- RTL Design
-- Computer Architecture
-- RISC-V
-- ASIC Design
-- Python Automation
+FPGA Design • Quantum Computing • QubiC • NoC • RTL Design • RISC-V • ASIC Design
 
 ---
 
 ## Featured Projects
 
 ### FPGA-Based Emulation Using QubiC
+📌 NIT Calicut internship documenting the QubiC software workflow on Windows.
 
-Repository:
-https://github.com/annmaryroy/QubiC-FPGA-Based-Quantum-Control
-
-A beginner-friendly guide documenting my internship at **National Institute of Technology Calicut (NITC)** on the QubiC open-source framework for FPGA-based quantum control.
+🔗 https://github.com/annmaryroy/QubiC-FPGA-Based-Quantum-Control
 
 ---
 
 ### RV32I Single Cycle Processor
+📌 Verilog implementation of a RV32I single-cycle processor.
 
-https://github.com/annmaryroy/RV32I-Single-Cycle-Processor
-
-Implementation of a RISC-V single-cycle processor supporting the RV32I instruction set.
+🔗 https://github.com/annmaryroy/RV32I-Single-Cycle-Processor
 
 ---
 
 ## Technical Skills
 
-**Programming**
-
-- Python
-- Verilog HDL
-- SystemVerilog
-
-**Tools**
-
-- Vivado
-- Vitis
-- Cadence Virtuoso
-- Git
-- Jupyter Notebook
-
-**Domains**
-
-- FPGA
-- Quantum Computing
-- NoC
-- RTL Design
-- Digital Design
-- Embedded Systems
+| Category | Skills |
+|----------|---------|
+| Programming | Python, Verilog HDL, SystemVerilog |
+| Tools | Vivado, Vitis, Cadence Virtuoso, Git, Jupyter Notebook |
+| Domains | FPGA, RTL Design, NoC, Quantum Computing, Embedded Systems |
 
 ---
 
