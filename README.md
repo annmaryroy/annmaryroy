@@ -1,15 +1,15 @@
 # Hi, I'm Ann Mary Roy 👋
+M.Tech VLSI & Embedded Systems | FPGA • RTL • Quantum Computing • Computer Architecture
 
 ## About Me
 
 🎓 M.Tech in VLSI & Embedded Systems  
 🏫 Cochin University of Science and Technology (CUSAT)
 
-I am passionate about semiconductor systems, FPGA design, Network-on-Chip (NoC), quantum computing, and processor architecture. I enjoy exploring both hardware and software aspects of modern computing systems through academic projects and internships.
+M.Tech student specializing in VLSI & Embedded Systems with interests in FPGA Design, Quantum Computing, Network-on-Chip (NoC), RTL Design, and Computer Architecture. I enjoy building and documenting hardware-software systems through academic projects and internships.
 
 ---
-
-### Current Interests
+Areas of Interest
 
 FPGA Design • Quantum Computing • QubiC • NoC • RTL Design • RISC-V • ASIC Design
 
@@ -18,7 +18,7 @@ FPGA Design • Quantum Computing • QubiC • NoC • RTL Design • RISC-V �
 ### Featured Projects
 
 #### FPGA-Based Emulation Using QubiC
-📌 NIT Calicut internship documenting the QubiC software workflow on Windows.
+📌 Documentation and setup guide for the LBL QubiC framework, developed during my internship at NIT Calicut.
 
 🔗 https://github.com/annmaryroy/QubiC-FPGA-Based-Quantum-Control
 
