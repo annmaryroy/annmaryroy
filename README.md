@@ -21,9 +21,6 @@ M.Tech student specializing in VLSI & Embedded Systems with interests in FPGA De
 
 ### Featured Projects
 
-
-## Featured Projects
-
 [![QubiC Repository](https://img.shields.io/badge/Repository-QubiC-blue?logo=github)](https://github.com/annmaryroy/QubiC-FPGA-Based-Quantum-Control)
 
 [![RV32I Repository](https://img.shields.io/badge/Repository-RV32I-green?logo=github)](https://github.com/annmaryroy/RV32I-Single-Cycle-Processor)
